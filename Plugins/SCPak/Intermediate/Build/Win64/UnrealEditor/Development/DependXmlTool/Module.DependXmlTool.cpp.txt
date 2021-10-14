@@ -1,0 +1,10 @@
+D:\TreasureChestDemo\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\DependXmlTool\Definitions.DependXmlTool.h
+D:/TreasureChestDemo/Plugins/SCPak/Source/DependXmlTool/Private/Core/WriteXML.cpp
+D:\TreasureChestDemo\Plugins\SCPak\Source\DependXmlTool\Private\Core\WriteXML.h
+D:\TreasureChestDemo\Plugins\SCPak\Source\DependXmlTool\Public\DependInfo.h
+D:\EpicGame\UE_5.0EA\Engine\Source\Runtime\XmlParser\Public\XmlFile.h
+D:\EpicGame\UE_5.0EA\Engine\Source\Runtime\XmlParser\Public\XmlNode.h
+D:/TreasureChestDemo/Plugins/SCPak/Source/DependXmlTool/Private/DependXmlManage.cpp
+D:\TreasureChestDemo\Plugins\SCPak\Source\DependXmlTool\Public\DependXmlManage.h
+D:/TreasureChestDemo/Plugins/SCPak/Source/DependXmlTool/Private/DependXmlTool.cpp
+D:\TreasureChestDemo\Plugins\SCPak\Source\DependXmlTool\Public\DependXmlTool.h

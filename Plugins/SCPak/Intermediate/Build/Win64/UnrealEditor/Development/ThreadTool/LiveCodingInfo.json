@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ThreadTool.cpp.obj": [
+			"Abandonable.cpp.obj",
+			"Semaphore.cpp.obj",
+			"ThreadCore.cpp.obj",
+			"Coroutines.cpp.obj",
+			"ThreadRunnableProxy.cpp.obj",
+			"ThreadManage.cpp.obj",
+			"ThreadTool.cpp.obj",
+			"WindowsPlatformThread.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"BuildId": "16433597",
+	"Modules": 
+	{
+		"HttpUtilityModule": "UnrealEditor-HttpUtilityModule.dll",
+		"MathUtilityModule": "UnrealEditor-MathUtilityModule.dll",
+		"MediaUtilityModule": "UnrealEditor-MediaUtilityModule.dll",
+		"TreasureChest": "UnrealEditor-TreasureChest.dll"
+	}
+}

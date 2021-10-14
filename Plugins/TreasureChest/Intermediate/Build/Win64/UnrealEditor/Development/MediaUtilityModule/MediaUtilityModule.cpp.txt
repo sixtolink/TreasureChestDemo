@@ -1,0 +1,2 @@
+D:\UEProject\UE5Quickstart\Plugins\TreasureChest\Intermediate\Build\Win64\UnrealEditor\Development\MediaUtilityModule\Definitions.MediaUtilityModule.h
+D:\UEProject\UE5Quickstart\Plugins\TreasureChest\Source\MediaUtilityModule\Public\MediaUtilityModule.h

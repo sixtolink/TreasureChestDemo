@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OSSTool.cpp.obj": [
+			"OSSTool.cpp.obj",
+			"SCOssManage.cpp.obj",
+			"MyOSSConfig.cpp.obj"
+		],
+		"Module.OSSTool.gen.cpp.obj": [
+			"MyOSSConfig.gen.cpp.obj",
+			"OSSTool.init.gen.cpp.obj"
+		]
+	}
+}

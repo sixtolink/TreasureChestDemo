@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MathUtilityModule.cpp.obj": [
+			"MathUtilityLibrary.cpp.obj",
+			"CoreUtility.cpp.obj",
+			"MathUtilityModule.cpp.obj"
+		],
+		"Module.MathUtilityModule.gen.cpp.obj": [
+			"MathUtilityLibrary.gen.cpp.obj",
+			"MathUtilityModule.init.gen.cpp.obj"
+		]
+	}
+}

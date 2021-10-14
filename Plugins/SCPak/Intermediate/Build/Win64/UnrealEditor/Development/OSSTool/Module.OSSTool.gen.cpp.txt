@@ -1,0 +1,12 @@
+D:\TreasureChestDemo\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\OSSTool\Definitions.OSSTool.h
+D:/TreasureChestDemo/Plugins/SCPak/Intermediate/Build/Win64/UnrealEditor/Inc/OSSTool/MyOSSConfig.gen.cpp
+D:\EpicGame\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGame\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\TreasureChestDemo\Plugins\SCPak\Source\OSSTool/Public/Setting/MyOSSConfig.h
+D:\EpicGame\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+D:\EpicGame\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\EpicGame\UE_5.0EA\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\EpicGame\UE_5.0EA\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\EpicGame\UE_5.0EA\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\TreasureChestDemo\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Inc\OSSTool\MyOSSConfig.generated.h
+D:/TreasureChestDemo/Plugins/SCPak/Intermediate/Build/Win64/UnrealEditor/Inc/OSSTool/OSSTool.init.gen.cpp

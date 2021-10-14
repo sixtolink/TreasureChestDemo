@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CompressedAndEncrypt.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProject\UE5Quickstart\Intermediate\Build\Win64\UE5QuickstartEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\CompressedAndEncrypt\Module.CompressedAndEncrypt.cpp.obj"
+"D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\CompressedAndEncrypt\Module.CompressedAndEncrypt.gen.cpp.obj"
+"D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\CompressedAndEncrypt\Default.rc2.res"
+/OUT:"D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\CompressedAndEncrypt\UnrealEditor-CompressedAndEncrypt.lib"
+/INCLUDE:IMPLEMENT_MODULE_CompressedAndEncrypt

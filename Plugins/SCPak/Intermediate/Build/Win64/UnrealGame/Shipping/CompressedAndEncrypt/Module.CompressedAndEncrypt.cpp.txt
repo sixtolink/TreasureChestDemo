@@ -1,0 +1,16 @@
+D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealGame\Shipping\CompressedAndEncrypt\Definitions.CompressedAndEncrypt.h
+D:/UEProject/UE5Quickstart/Plugins/SCPak/Source/CompressedAndEncrypt/Private/CompressedAndEncrypt.cpp
+D:\UEProject\UE5Quickstart\Plugins\SCPak\Source\CompressedAndEncrypt\Public\CompressedAndEncrypt.h
+D:/UEProject/UE5Quickstart/Plugins/SCPak/Source/CompressedAndEncrypt/Private/CompressedLibrary.cpp
+D:\UEProject\UE5Quickstart\Plugins\SCPak\Source\CompressedAndEncrypt\Public\CompressedLibrary.h
+D:\UEProject\UE5Quickstart\Plugins\SCPak\Source\CompressedAndEncrypt\Public\PakInfo.h
+D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealGame\Inc\CompressedAndEncrypt\PakInfo.generated.h
+D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealGame\Inc\CompressedAndEncrypt\CompressedLibrary.generated.h
+D:\UEProject\UE5Quickstart\Plugins\SCPak\Source\CompressedAndEncrypt\Public\Compressed/CompressedByte.h
+D:\UEProject\UE5Quickstart\Plugins\SCPak\Source\CompressedAndEncrypt\Public\Compressed/DecompressedByte.h
+D:/UEProject/UE5Quickstart/Plugins/SCPak/Source/CompressedAndEncrypt/Private/Compressed/CompressedByte.cpp
+D:\UEProject\UE5Quickstart\Plugins\SCPak\Source\CompressedAndEncrypt\Private\Core/SimpleXML.h
+D:\EpicGame\UE_5.0EA\Engine\Source\Runtime\XmlParser\Public\XmlFile.h
+D:\EpicGame\UE_5.0EA\Engine\Source\Runtime\XmlParser\Public\XmlNode.h
+D:/UEProject/UE5Quickstart/Plugins/SCPak/Source/CompressedAndEncrypt/Private/Compressed/DecompressedByte.cpp
+D:/UEProject/UE5Quickstart/Plugins/SCPak/Source/CompressedAndEncrypt/Private/Core/SimpleXML.cpp

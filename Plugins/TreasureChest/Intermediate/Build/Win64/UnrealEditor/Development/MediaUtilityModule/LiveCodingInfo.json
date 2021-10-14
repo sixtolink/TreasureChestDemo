@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MediaUtilityModule.cpp.obj": [
+			"MediaUtilityLog.cpp.obj",
+			"FFMPEGMediaSetting.cpp.obj",
+			"MediaUtilityModule.cpp.obj",
+			"FFMPEGMediaPlayer.cpp.obj"
+		],
+		"Module.MediaUtilityModule.gen.cpp.obj": [
+			"FFMPEGMediaSetting.gen.cpp.obj",
+			"MediaUtilityModule.init.gen.cpp.obj",
+			"MediaUtilityType.gen.cpp.obj"
+		]
+	}
+}

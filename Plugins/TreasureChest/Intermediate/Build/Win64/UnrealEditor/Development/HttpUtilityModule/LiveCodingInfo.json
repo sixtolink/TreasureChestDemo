@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HttpUtilityModule.cpp.obj": [
+			"HttpUtilityLibrary.cpp.obj",
+			"HttpClient.cpp.obj",
+			"HttpUtilityModule.cpp.obj",
+			"HttpRequestInterface.cpp.obj",
+			"HttpRequestObject.cpp.obj"
+		],
+		"Module.HttpUtilityModule.gen.cpp.obj": [
+			"HttpUtilityLibrary.gen.cpp.obj",
+			"HttpUtilityModule.init.gen.cpp.obj",
+			"HttpUtilityType.gen.cpp.obj"
+		]
+	}
+}

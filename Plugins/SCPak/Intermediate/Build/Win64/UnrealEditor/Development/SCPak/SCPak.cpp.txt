@@ -1,0 +1,2 @@
+D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\SCPak\Definitions.SCPak.h
+D:\UEProject\UE5Quickstart\Plugins\SCPak\Source\SCPak\Public\SCPak.h

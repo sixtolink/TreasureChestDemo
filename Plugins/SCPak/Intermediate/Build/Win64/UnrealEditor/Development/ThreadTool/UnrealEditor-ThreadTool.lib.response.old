@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ThreadTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProject\UE5Quickstart\Intermediate\Build\Win64\UE5QuickstartEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\ThreadTool\Module.ThreadTool.cpp.obj"
+"D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\ThreadTool\Default.rc2.res"
+/OUT:"D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\ThreadTool\UnrealEditor-ThreadTool.lib"
+/INCLUDE:IMPLEMENT_MODULE_ThreadTool

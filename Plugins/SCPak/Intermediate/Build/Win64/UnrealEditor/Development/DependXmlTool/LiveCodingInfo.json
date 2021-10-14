@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DependXmlTool.cpp.obj": [
+			"WriteXML.cpp.obj",
+			"DependXmlManage.cpp.obj",
+			"DependXmlTool.cpp.obj"
+		]
+	}
+}

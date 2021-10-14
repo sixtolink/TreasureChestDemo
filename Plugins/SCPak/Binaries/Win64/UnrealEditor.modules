@@ -1,0 +1,12 @@
+{
+	"BuildId": "16433597",
+	"Modules": 
+	{
+		"CompressedAndEncrypt": "UnrealEditor-CompressedAndEncrypt.dll",
+		"DependXmlTool": "UnrealEditor-DependXmlTool.dll",
+		"HttpTool": "UnrealEditor-HttpTool.dll",
+		"OSSTool": "UnrealEditor-OSSTool.dll",
+		"SCPak": "UnrealEditor-SCPak.dll",
+		"ThreadTool": "UnrealEditor-ThreadTool.dll"
+	}
+}

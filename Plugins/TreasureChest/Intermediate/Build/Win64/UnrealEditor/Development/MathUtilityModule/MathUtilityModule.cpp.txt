@@ -1,0 +1,2 @@
+D:\UEProject\UE5Quickstart\Plugins\TreasureChest\Intermediate\Build\Win64\UnrealEditor\Development\MathUtilityModule\Definitions.MathUtilityModule.h
+D:\UEProject\UE5Quickstart\Plugins\TreasureChest\Source\MathUtilityModule\Public\MathUtilityModule.h

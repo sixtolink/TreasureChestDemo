@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CompressedAndEncrypt.cpp.obj": [
+			"CompressedAndEncrypt.cpp.obj",
+			"CompressedLibrary.cpp.obj",
+			"CompressedByte.cpp.obj",
+			"DecompressedByte.cpp.obj",
+			"SimpleXML.cpp.obj"
+		],
+		"Module.CompressedAndEncrypt.gen.cpp.obj": [
+			"CompressedAndEncrypt.init.gen.cpp.obj",
+			"CompressedLibrary.gen.cpp.obj",
+			"PakInfo.gen.cpp.obj"
+		]
+	}
+}

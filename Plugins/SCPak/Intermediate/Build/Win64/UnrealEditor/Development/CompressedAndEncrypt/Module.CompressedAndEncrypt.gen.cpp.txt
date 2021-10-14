@@ -1,0 +1,10 @@
+D:\TreasureChestDemo\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\CompressedAndEncrypt\Definitions.CompressedAndEncrypt.h
+D:/TreasureChestDemo/Plugins/SCPak/Intermediate/Build/Win64/UnrealEditor/Inc/CompressedAndEncrypt/CompressedAndEncrypt.init.gen.cpp
+D:\EpicGame\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGame\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:/TreasureChestDemo/Plugins/SCPak/Intermediate/Build/Win64/UnrealEditor/Inc/CompressedAndEncrypt/CompressedLibrary.gen.cpp
+D:\TreasureChestDemo\Plugins\SCPak\Source\CompressedAndEncrypt/Public/CompressedLibrary.h
+D:\TreasureChestDemo\Plugins\SCPak\Source\CompressedAndEncrypt\Public\PakInfo.h
+D:\TreasureChestDemo\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Inc\CompressedAndEncrypt\PakInfo.generated.h
+D:\TreasureChestDemo\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Inc\CompressedAndEncrypt\CompressedLibrary.generated.h
+D:/TreasureChestDemo/Plugins/SCPak/Intermediate/Build/Win64/UnrealEditor/Inc/CompressedAndEncrypt/PakInfo.gen.cpp

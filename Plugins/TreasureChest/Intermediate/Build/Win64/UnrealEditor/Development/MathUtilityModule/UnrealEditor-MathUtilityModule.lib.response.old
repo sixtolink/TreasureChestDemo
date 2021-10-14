@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MathUtilityModule.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProject\UE5Quickstart\Intermediate\Build\Win64\UE5QuickstartEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UEProject\UE5Quickstart\Plugins\TreasureChest\Intermediate\Build\Win64\UnrealEditor\Development\MathUtilityModule\Module.MathUtilityModule.cpp.obj"
+"D:\UEProject\UE5Quickstart\Plugins\TreasureChest\Intermediate\Build\Win64\UnrealEditor\Development\MathUtilityModule\Module.MathUtilityModule.gen.cpp.obj"
+"D:\UEProject\UE5Quickstart\Plugins\TreasureChest\Intermediate\Build\Win64\UnrealEditor\Development\MathUtilityModule\Default.rc2.res"
+/OUT:"D:\UEProject\UE5Quickstart\Plugins\TreasureChest\Intermediate\Build\Win64\UnrealEditor\Development\MathUtilityModule\UnrealEditor-MathUtilityModule.lib"
+/INCLUDE:IMPLEMENT_MODULE_MathUtilityModule

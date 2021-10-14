@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OSSTool-1892.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProject\UE5Quickstart\Intermediate\Build\Win64\UE5QuickstartEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\OSSTool\Module.OSSTool.cpp.obj"
+"D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\OSSTool\Module.OSSTool.gen.cpp.obj"
+"D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\OSSTool\Default.rc2.res"
+/OUT:"D:\UEProject\UE5Quickstart\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\OSSTool\UnrealEditor-OSSTool-1892.lib"
+/INCLUDE:IMPLEMENT_MODULE_OSSTool

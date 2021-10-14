@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OSSTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\TreasureChestDemo\Intermediate\Build\Win64\TreasureChestDemoEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\TreasureChestDemo\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\OSSTool\Module.OSSTool.cpp.obj"
+"D:\TreasureChestDemo\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\OSSTool\Module.OSSTool.gen.cpp.obj"
+"D:\TreasureChestDemo\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\OSSTool\Default.rc2.res"
+/OUT:"D:\TreasureChestDemo\Plugins\SCPak\Intermediate\Build\Win64\UnrealEditor\Development\OSSTool\UnrealEditor-OSSTool.lib"
+/INCLUDE:IMPLEMENT_MODULE_OSSTool

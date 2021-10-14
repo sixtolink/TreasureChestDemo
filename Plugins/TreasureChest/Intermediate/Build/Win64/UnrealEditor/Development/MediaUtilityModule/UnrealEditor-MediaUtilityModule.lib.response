@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MediaUtilityModule.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProject\UE5Quickstart\Intermediate\Build\Win64\UE5QuickstartEditor\Development\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\UEProject\UE5Quickstart\Plugins\TreasureChest\Intermediate\Build\Win64\UnrealEditor\Development\MediaUtilityModule\Module.MediaUtilityModule.cpp.obj"
+"D:\UEProject\UE5Quickstart\Plugins\TreasureChest\Intermediate\Build\Win64\UnrealEditor\Development\MediaUtilityModule\Module.MediaUtilityModule.gen.cpp.obj"
+"D:\UEProject\UE5Quickstart\Plugins\TreasureChest\Intermediate\Build\Win64\UnrealEditor\Development\MediaUtilityModule\Default.rc2.res"
+/OUT:"D:\UEProject\UE5Quickstart\Plugins\TreasureChest\Intermediate\Build\Win64\UnrealEditor\Development\MediaUtilityModule\UnrealEditor-MediaUtilityModule.lib"
+/INCLUDE:IMPLEMENT_MODULE_MediaUtilityModule

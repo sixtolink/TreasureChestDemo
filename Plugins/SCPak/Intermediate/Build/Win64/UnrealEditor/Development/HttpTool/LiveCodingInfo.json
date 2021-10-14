@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HttpTool.cpp.obj": [
+			"HTTPClient.cpp.obj",
+			"HttpLib.cpp.obj",
+			"HttpTool.cpp.obj",
+			"HTTPClientRequest.cpp.obj",
+			"RequestInterface.cpp.obj",
+			"SCHttpManage.cpp.obj"
+		],
+		"Module.HttpTool.gen.cpp.obj": [
+			"HttpLib.gen.cpp.obj",
+			"HttpTool.init.gen.cpp.obj"
+		]
+	}
+}
